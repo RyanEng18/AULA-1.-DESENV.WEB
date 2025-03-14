@@ -1,0 +1,49 @@
+/* styles.css */
+body {
+    background-color: rgb(224, 179, 179);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+.texto1 {
+    color: rgb(24, 83, 172);
+    text-align: right;
+    position: relative;
+    top: 35px;
+
+}
+
+.texto2 {
+    color: rgb(24, 83, 172);
+    position: relative;
+    top: 100px;
+        
+}
+
+.botao {
+    cursor: pointer;
+    background-color: rgb(100, 100, 61);    
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    
+}
+
+.container1 {
+    position: relative;
+    left: 125px;
+    text-align: right;
+    margin: 140px;
+    margin-top: -15%;
+}
+
+.Lista {
+    list-style-type: none;
+    left: -300px;
+    
+}
